@@ -1,0 +1,9 @@
+
+bin/
+obj/
+*.o
+*.exe
+memsim
+
+.DS_Store
+Thumbs.db

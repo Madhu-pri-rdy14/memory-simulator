@@ -1,0 +1,12 @@
+strategy best
+init 2048
+malloc 500
+malloc 500
+malloc 500
+free 2
+malloc 200
+map 0 100
+access 0
+access 0
+stats
+exit
